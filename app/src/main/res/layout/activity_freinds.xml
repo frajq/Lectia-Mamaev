@@ -13,4 +13,16 @@
         tools:layout_editor_absoluteX="133dp"
         tools:layout_editor_absoluteY="219dp"
         tools:srcCompat="@tools:sample/avatars" />
+
+    <ScrollView
+        android:layout_width="409dp"
+        android:layout_height="382dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="348dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>
