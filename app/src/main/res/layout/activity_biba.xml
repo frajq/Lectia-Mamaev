@@ -4,14 +4,4 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Biba">
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="401dp"
-        android:layout_height="124dp"
-        android:text="Text"
-        android:textSize="96sp"
-        tools:layout_editor_absoluteX="99dp"
-        tools:layout_editor_absoluteY="323dp" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+    tools:context=".Biba"/>
